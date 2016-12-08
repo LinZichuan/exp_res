@@ -11,7 +11,7 @@
 ## result
 ![img](doom_res/doom_normal.PNG)
 
-#doom current frame + attension
+#doom current frame + attention
 ## resolution
 * 120x120
 
